@@ -1,1 +1,1 @@
-# Lokust_Kuzmin
+# Locust_Kuzmin
